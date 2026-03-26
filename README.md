@@ -46,7 +46,7 @@ Next steps are to develop a model that can take a source and destination input a
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Exploratory Data Analysis](https://github.com/ruchika1/FlightFareAnalysisAndPrediction/blob/main/FlightsData.ipynb)
 
 
 
