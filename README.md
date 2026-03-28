@@ -42,11 +42,12 @@ I plotted various features and concluded as follows
 
 #### Next steps
 What suggestions do you have for next steps?
-Next steps are to develop a model that can take a source and destination input and predict a price.
+Deploy the model as an API and use that to try to predict a price of a flight.
 
 #### Outline of project
 
 - [Exploratory Data Analysis](https://github.com/ruchika1/FlightFareAnalysisAndPrediction/blob/main/FlightsData.ipynb)
+- [Flights fare model training, business findings and next steps](https://github.com/ruchika1/FlightFareAnalysisAndPrediction/blob/main/FlightsPriceModel.ipynb)
 
 
 
